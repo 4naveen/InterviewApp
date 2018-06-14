@@ -17,8 +17,6 @@ import kotlinx.android.synthetic.main.activity_ques_list.*
 import android.graphics.Paint.UNDERLINE_TEXT_FLAG
 
 
-
-
 class AnswerActivity : AppCompatActivity() {
     var ques_id :Int=0
     lateinit var questionList: ArrayList<Question>
