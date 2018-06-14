@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "203834715122",
+    "firebase_url": "https://interviewapp-45b0b.firebaseio.com",
+    "project_id": "interviewapp-45b0b",
+    "storage_bucket": "interviewapp-45b0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203834715122:android:98ce2560e2adbc7f",
+        "android_client_info": {
+          "package_name": "com.naveen.interviewapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203834715122-1e9lb7kvunkkkj3mei1c70bd7t14idjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naveen.interviewapp",
+            "certificate_hash": "29bdbd6a1393c6220cc6c92f8eb171db6612aac3"
+          }
+        },
+        {
+          "client_id": "203834715122-aktb64rpj2n90v631btf391qlr2lk37t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRN7xpWJirVTjVqOQP17z9B0B27evN6J0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203834715122-aktb64rpj2n90v631btf391qlr2lk37t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

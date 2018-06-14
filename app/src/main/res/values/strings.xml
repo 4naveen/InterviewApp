@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InterviewApp</string>
+   <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+<!--
+    <string name="banner_ad_unit_id">ca-app-pub-6864488237121394/5573280172</string>
+-->
+
+</resources>
